@@ -1,2 +1,5 @@
-# alertas-SQL-SERVER
-Criação de alertas para o SQL-Server
+# alertas-SQL-SERVER  
+
+Criação de 40 alertas para o SQL-Server  
+
+Curso da power Tunning
